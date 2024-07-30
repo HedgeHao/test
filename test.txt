@@ -1,6 +1,6 @@
 [
 {
-manufacturer: "Genymobile",
+manufacturer: "ABDE",
 market_name: "ABCDE",
 codename: "REL",
 model: "Genymotion 'Phone' version"
