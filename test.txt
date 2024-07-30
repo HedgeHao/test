@@ -1,0 +1,8 @@
+[
+{
+manufacturer: "Genymobile",
+market_name: "ABCDE",
+codename: "REL",
+model: "Genymotion 'Phone' version"
+}
+]
